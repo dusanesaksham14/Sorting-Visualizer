@@ -16,4 +16,5 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 - Navigate to the [website](https://dusanesaksham14.github.io/sorting/)
 - Click on the algorithm you want to visualize
 - Adjust speed and size of the array
+- by Saksham Dusane
 
